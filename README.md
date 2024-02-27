@@ -1,0 +1,1 @@
+# Automatic-Segmentation-using-Generative-Adversial-Network
